@@ -6,6 +6,9 @@ Priority Chat is a real time chat application made using Socket.io
 
 [Priority Chat](https://priority-chat.onrender.com/)
 
+### IMP
+Install Google Chrome Extension: [Moesif Origin & CORS Changer](https://chrome.google.com/webstore/detail/moesif-origin-cors-change/digfbfaphojjndkpccljibejjbppifbc)
+
 ## Tech Stack
 
 1. **Frontend:** React JS, JavaScript, Socket.io/client
